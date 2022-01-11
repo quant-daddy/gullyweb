@@ -1,0 +1,20 @@
+title: Overreacted,
+tagline: A blog about coding,
+description: Some description,
+logoUrl:
+socials: {
+  facebook: "",
+  twitter: ,
+  instagram: ,
+  url: ,
+  youtube: ,
+  linkedin: 
+},
+bannerUrl: ,
+authors:
+  suraj:
+    name: Suraj Keshri
+    title: Creator of GraphQL Eventbus
+    url: https://twitter.com/quantdaddy
+    image_url: https://avatars.githubusercontent.com/u/10248760?v=4
+    gullyId: suraj
